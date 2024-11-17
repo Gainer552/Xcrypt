@@ -27,8 +27,7 @@ Follow these steps to install and set up Xcrypt:
 1. Download Xcrypt: Clone the repository or download the xcrypt.sh file directly: git clone https://github.com/your-repo/Xcrypt.git
 2. cd Xcrypt
 3. Make the Script Executable: chmod +x xcrypt.sh
-
-Run the Script: ./xcrypt.sh
+4. Run the Script: ./xcrypt.sh
 
 **Note:** Ensure that your system has cryptsetup installed and you have sudo privileges.
 
